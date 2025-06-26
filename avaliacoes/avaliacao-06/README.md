@@ -1,5 +1,7 @@
 # Avaliação 06
 
+## Evidências aqui em baixo e também na pasta "evidencias"
+
 Abaixo estão as capturas de tela da aplicação em execução no meu celular.
 
 <p align="center">
