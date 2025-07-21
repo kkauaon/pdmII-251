@@ -1,16 +1,12 @@
-# avaliacao_08
+# Avaliação 08
+## Problema de Programação Flutter: Consumo de API e ListView Dinâmica
+API utilizada: https://www.themoviedb.org/
 
-A new Flutter project.
+## Evidências aqui em baixo e também na pasta "EVIDENCIAS"
 
-## Getting Started
+Abaixo estão as capturas de tela da aplicação em execução no meu celular.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="EVIDENCIAS/parte1.jpg" width="300" alt="Parte 1">
+  <img src="EVIDENCIAS/parte2.jpg" width="300" alt="Parte 2">
+</p>
