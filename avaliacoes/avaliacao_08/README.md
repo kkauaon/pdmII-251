@@ -2,7 +2,7 @@
 ## Problema de Programação Flutter: Consumo de API e ListView Dinâmica
 API utilizada: https://www.themoviedb.org/
 
-## Evidências aqui em baixo e também na pasta "EVIDENCIAS"
+## Evidências aqui em baixo OU em `Avaliação 08 - Evidências.pdf`
 
 Abaixo estão as capturas de tela da aplicação em execução no meu celular.
 

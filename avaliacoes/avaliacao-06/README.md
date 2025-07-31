@@ -1,6 +1,6 @@
 # Avaliação 06
 
-## Evidências aqui em baixo e também na pasta "evidencias"
+## Evidências aqui em baixo OU em `Avaliação 06 - Evidências.pdf`
 
 Abaixo estão as capturas de tela da aplicação em execução no meu celular.
 
